@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/images/Leslie_Baker_CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/images/Leslie_Baker_CV_.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [LB832@cornell.edu](mailto:LB832@cornell.edu) | | | **Phone:** +1 7745348967
