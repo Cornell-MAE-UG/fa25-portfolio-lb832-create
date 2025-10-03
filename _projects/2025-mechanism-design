@@ -2,7 +2,6 @@
 layout: project
 title: Mechanism Design
 description: Mechanism To Lift Maximum Weight
-technologies:
 image: /assets/images/statics-portfolio.jpg
 ---
 
@@ -10,5 +9,3 @@ For our statics class, we were asked to design a mechanism that could lift the m
 
 
 I designed a mechanism where the actuator is at an angle theta with the ground, pushing up and right on the rigid bar. Based upon the Tolomatic IMA catalog, I picked the IMA55-RN05 with a peak thrust of 35.81 kN. I found the length of the actuator to be 79.72cm from an equation in the catalog, and theta to be 38.84 degrees. I used the sum of the moments about point A to find that the maximum weight the actuator could lift is 26.13kN. I will be continuing this project and calculations throughout the semester.
-
-![Profile Picture]({{ "assets/images/statics-portfolio.jpg" | relative_url }}){: class="profile-image"}
