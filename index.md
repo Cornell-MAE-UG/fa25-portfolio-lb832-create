@@ -13,4 +13,4 @@ My name is Leslie, I am a sophomore studying Biomedical Engineering with an Educ
  
 
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">My Projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
