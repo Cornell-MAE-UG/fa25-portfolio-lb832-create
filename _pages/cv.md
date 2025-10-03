@@ -2,6 +2,7 @@
 layout: default
 title: Leslie Baker - Curriculum Vitae
 permalink: /cv/
+redirect_to: /assets/images/Leslie_Baker_CV.pdf
 ---
 ## Curriculum Vitae
 
