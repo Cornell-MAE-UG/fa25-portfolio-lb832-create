@@ -1,0 +1,1 @@
+<p><strong>Technologies Used</strong>: {{ page.technologies | join: ", " }}</p>
