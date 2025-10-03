@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Leslie Baker - Curriculum Vitae
-permalink: /assets/images/Leslie_Baker_CV.pdf
+permalink: /cv/
 ---
 ## Curriculum Vitae
 
