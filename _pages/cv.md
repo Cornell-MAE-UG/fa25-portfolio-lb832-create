@@ -26,7 +26,7 @@ Aspiring engineering student with a strong foundation in synthetic biology and e
 
 - **Montrose School**  
   *High School Diploma*  
-  GPA: 4.54/4.0 | Graduation: May, 2024
+  GPA: 4.54/4.0 - Senior High Honors | Graduation: May, 2024
   Leadership: Varsity Soccer Captain, Varsity Softball Captain, Middle School Soccer Clinic Coach, BioBuilders Club Leader, Chemistry TA, Newspaper Clubs/Classes and Copy editor, Model-UN Vice President, School 
   Ambassador (2 year Vice President), Science Club Founder and Leader, Faith Peer Leader Club Core Leader, Bake A 
   Change Treasurer/President, SADD Club President, Montrose to Watts President
