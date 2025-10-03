@@ -1,0 +1,12 @@
+---
+layout: project
+title: Mechanism Design
+description: Mechanism To Lift Maximum Weight
+technologies: [Autodesk Fusion]
+image: /assets/images/statics-portfolio.jpg
+---
+
+For our statics class, we were asked to design a mechanism that could lift the maximum weight possible. We were constrained to a design space of 50 cm tall by 150cm wide, and were given one bar, 3 pins, and 1 actuator to design this mechanism.
+
+
+So far we have only done a rough sketch and slight calculations, leading me to create this drawing  /assets/images/statics-portfolio.jpg
