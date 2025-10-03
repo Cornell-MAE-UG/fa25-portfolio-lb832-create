@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Leslie Baker - Curriculum Vitae
-permalink: /cv/
-redirect_to: /assets/images/Leslie_Baker_CV.pdf
+permalink: /assets/images/Leslie_Baker_CV.pdf
 ---
 ## Curriculum Vitae
-
-/assets/images/Leslie_Baker_CV.pdf
 
 [Download my CV]({{ "/assets/images/Leslie_Baker_CV.pdf" | relative_url }}) in PDF format.
 
