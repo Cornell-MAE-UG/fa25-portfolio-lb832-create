@@ -5,6 +5,8 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
+/assets/images/Leslie_Baker_CV.pdf
+
 [Download my CV]({{ "/assets/images/Leslie_Baker_CV.pdf" | relative_url }}) in PDF format.
 
 
